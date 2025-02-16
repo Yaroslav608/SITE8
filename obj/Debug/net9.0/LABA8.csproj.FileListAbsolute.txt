@@ -1,0 +1,195 @@
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/bin/Debug/net9.0/appsettings.Development.json
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/bin/Debug/net9.0/appsettings.json
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/bin/Debug/net9.0/LABA8.staticwebassets.runtime.json
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/bin/Debug/net9.0/LABA8.staticwebassets.endpoints.json
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/bin/Debug/net9.0/LABA8
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/bin/Debug/net9.0/LABA8.deps.json
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/bin/Debug/net9.0/LABA8.runtimeconfig.json
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/bin/Debug/net9.0/LABA8.dll
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/bin/Debug/net9.0/LABA8.pdb
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/LABA8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/LABA8.AssemblyInfoInputs.cache
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/LABA8.AssemblyInfo.cs
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/LABA8.csproj.CoreCompileInputs.cache
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/LABA8.MvcApplicationPartsAssemblyInfo.cache
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/LABA8.RazorAssemblyInfo.cache
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/LABA8.RazorAssemblyInfo.cs
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/scopedcss/bundle/LABA8.styles.css
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/scopedcss/projectbundle/LABA8.bundle.scp.css
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/hnq0zq2pje-b9sayid5wm.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/az6e0dxvrs-61n19gt1b8.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/9aebofkf0s-xtxxf3hu2r.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/z5yn3qdztl-bqjiyaj88i.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/oxxgwqft4m-c2jlpeoesf.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/wwu908lb60-erw9l3u2r3.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/z01xiyawlp-aexeepp0ev.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/c79kp2ruym-d7shbmvgxk.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/bql6106mkp-ausgxo2sd3.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/9e3usfnaj5-k8d9w2qqmf.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/jmy82memxw-cosvhxvwiu.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/k577wyaq04-ub07r2b239.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/8gobk2jpo6-fvhpjtyr6v.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/q18k87qh0g-b7pk76d08c.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/9cmzn154dx-fsbi9cje9m.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/ie09ucngg7-rzd6atqjts.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/vlr9v2n435-ee0r1s7dh0.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/gpfeqz5zmd-dxx9fxp4il.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/dn3vr9padr-jd9uben2k1.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/prjidputwo-khv3u5hwcm.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/wzjjta9rze-r4e9w2rdcm.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/zirw069g7e-lcd1t2u6c8.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/0ajqxfb7kq-c2oey78nd0.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/st154eaaxr-tdbxkamptv.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/entrsnp4lh-j5mq2jizvt.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/hn631gv1od-06098lyss8.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/3r6g5ob0s0-nvvlpmu67g.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/0l98t6pc5q-s35ty4nyc5.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/qjknx0gtdt-pj5nd1wqec.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/cxbfn01ui8-46ein0sx1k.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/d7j97sbjb6-v0zj4ognzu.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/47ckjrtfjw-37tfw0ft22.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/b8lpn6y1ey-hrwsygsryq.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/ox8jufp54i-pk9g2wxc8p.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/wr172tyh8k-ft3s53vfgj.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/m34qor6ebo-6cfz1n2cew.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/5a23ll348k-6pdc2jztkx.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/l3r8d4hfn9-493y06b0oq.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/p48mgtltz5-iovd86k7lj.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/lcgd0tl1ip-vr1egmr9el.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/p7zgtw7wed-kbrnm935zg.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/9v3cfgl0jn-jj8uyg4cgr.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/o519t9f8ua-y7v9cxd14o.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/l0gbfodffl-notf2xhcfb.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/dawe4k2ebr-h1s4sie4z3.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/qr7yxuzljt-63fj8s7r0e.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/jzny5symxt-0j3bgjxly4.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/oxmrqhngcn-47otxtyo56.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/n0ckkgyaic-4v8eqarkd7.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/zcp84pmfhp-356vix0kms.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/36u1stg0cj-83jwlth58m.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/9wx9mh3t7m-mrlpezrjn3.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/kx40w8dp3m-lzl9nlhx6b.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/qhu54mx94n-ag7o75518u.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/nwkzm2o4wn-x0q3zqp4vz.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/u1gddohmr5-0i3buxo5is.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/6wekda2na4-o1o13a6vjx.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/iylsl7kxws-ttgo8qnofa.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/s9klqzthng-2z0ns9nrw6.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/upoyk0qc1q-muycvpuwrr.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/io9uvjigai-87fc7y1x7t.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/8jyhwhj6m6-mlv21k5csn.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/axtwc59qtx-52lfr9bvmh.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/ig27t8id46-52lfr9bvmh.gz
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/staticwebassets.build.json
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/staticwebassets.development.json
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/staticwebassets/msbuild.LABA8.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/staticwebassets/msbuild.LABA8.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/staticwebassets/msbuild.build.LABA8.props
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.LABA8.props
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.LABA8.props
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/LABA8.dll
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/refint/LABA8.dll
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/LABA8.pdb
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/LABA8.genruntimeconfig.cache
+/Users/burskaasvetlana/Desktop/Новая папка 6/LABA8/obj/Debug/net9.0/ref/LABA8.dll
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/bin/Debug/net9.0/appsettings.Development.json
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/bin/Debug/net9.0/appsettings.json
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/bin/Debug/net9.0/LABA8.staticwebassets.endpoints.json
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/bin/Debug/net9.0/LABA8.staticwebassets.runtime.json
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/bin/Debug/net9.0/LABA8
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/LABA8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/LABA8.AssemblyInfoInputs.cache
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/LABA8.AssemblyInfo.cs
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/LABA8.csproj.CoreCompileInputs.cache
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/LABA8.MvcApplicationPartsAssemblyInfo.cache
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/LABA8.RazorAssemblyInfo.cache
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/LABA8.RazorAssemblyInfo.cs
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/scopedcss/bundle/LABA8.styles.css
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/scopedcss/projectbundle/LABA8.bundle.scp.css
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/az6e0dxvrs-61n19gt1b8.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/z5yn3qdztl-bqjiyaj88i.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/oxxgwqft4m-c2jlpeoesf.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/wwu908lb60-erw9l3u2r3.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/z01xiyawlp-aexeepp0ev.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/c79kp2ruym-d7shbmvgxk.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/bql6106mkp-ausgxo2sd3.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/9e3usfnaj5-k8d9w2qqmf.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/jmy82memxw-cosvhxvwiu.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/k577wyaq04-ub07r2b239.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/8gobk2jpo6-fvhpjtyr6v.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/q18k87qh0g-b7pk76d08c.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/9cmzn154dx-fsbi9cje9m.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/ie09ucngg7-rzd6atqjts.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/vlr9v2n435-ee0r1s7dh0.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/gpfeqz5zmd-dxx9fxp4il.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/dn3vr9padr-jd9uben2k1.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/prjidputwo-khv3u5hwcm.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/wzjjta9rze-r4e9w2rdcm.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/zirw069g7e-lcd1t2u6c8.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/0ajqxfb7kq-c2oey78nd0.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/st154eaaxr-tdbxkamptv.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/entrsnp4lh-j5mq2jizvt.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/hn631gv1od-06098lyss8.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/3r6g5ob0s0-nvvlpmu67g.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/0l98t6pc5q-s35ty4nyc5.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/qjknx0gtdt-pj5nd1wqec.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/cxbfn01ui8-46ein0sx1k.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/d7j97sbjb6-v0zj4ognzu.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/47ckjrtfjw-37tfw0ft22.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/b8lpn6y1ey-hrwsygsryq.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/ox8jufp54i-pk9g2wxc8p.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/wr172tyh8k-ft3s53vfgj.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/m34qor6ebo-6cfz1n2cew.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/5a23ll348k-6pdc2jztkx.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/l3r8d4hfn9-493y06b0oq.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/p48mgtltz5-iovd86k7lj.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/lcgd0tl1ip-vr1egmr9el.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/p7zgtw7wed-kbrnm935zg.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/9v3cfgl0jn-jj8uyg4cgr.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/o519t9f8ua-y7v9cxd14o.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/l0gbfodffl-notf2xhcfb.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/dawe4k2ebr-h1s4sie4z3.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/qr7yxuzljt-63fj8s7r0e.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/jzny5symxt-0j3bgjxly4.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/oxmrqhngcn-47otxtyo56.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/n0ckkgyaic-4v8eqarkd7.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/zcp84pmfhp-356vix0kms.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/36u1stg0cj-83jwlth58m.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/9wx9mh3t7m-mrlpezrjn3.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/kx40w8dp3m-lzl9nlhx6b.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/qhu54mx94n-ag7o75518u.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/nwkzm2o4wn-x0q3zqp4vz.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/u1gddohmr5-0i3buxo5is.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/6wekda2na4-o1o13a6vjx.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/iylsl7kxws-ttgo8qnofa.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/s9klqzthng-2z0ns9nrw6.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/upoyk0qc1q-muycvpuwrr.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/io9uvjigai-87fc7y1x7t.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/8jyhwhj6m6-mlv21k5csn.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/axtwc59qtx-52lfr9bvmh.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/ig27t8id46-52lfr9bvmh.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/staticwebassets.build.json
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/staticwebassets.development.json
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/staticwebassets/msbuild.LABA8.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/staticwebassets/msbuild.LABA8.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/staticwebassets/msbuild.build.LABA8.props
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.LABA8.props
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.LABA8.props
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/LABA8.dll
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/refint/LABA8.dll
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/LABA8.pdb
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/bin/Debug/net9.0/LABA8.deps.json
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/bin/Debug/net9.0/LABA8.runtimeconfig.json
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/bin/Debug/net9.0/LABA8.dll
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/bin/Debug/net9.0/LABA8.pdb
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/LABA8.genruntimeconfig.cache
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/ref/LABA8.dll
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/hnq0zq2pje-c9j8qvmmce.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/9aebofkf0s-3r8b2a0bt1.gz
+/Users/burskaasvetlana/Desktop/все папки/Новая папка 6/LABA8/obj/Debug/net9.0/compressed/b2aj288ath-dgdbvlu2q5.gz
